@@ -1,4 +1,6 @@
-This is my personal jekyll theme
+https://cjdupre.github.io/
+
+This is my personal jekyll theme.
 
 ## License
 
